@@ -8,7 +8,7 @@ Version **v2** extends the earlier release by supporting **multi-order customers
 
 ---
 
-📊 Key Statistics (v2)
+ Key Statistics (v2):
 
 * **Total records:** 17,049
 * **Total columns:** 18
@@ -24,7 +24,7 @@ Version **v2** extends the earlier release by supporting **multi-order customers
 
 ---
 
-💾 Dataset Versions
+ Dataset Versions:
 
 ### v1 (legacy)
 
@@ -43,7 +43,7 @@ Order identifiers may appear multiple times (e.g., `ORD_1023-1`, `ORD_1023-2`) t
 
 ---
 
-📋 Column Description
+ Column Description:
 
 | Column Name           | Description                                            |
 | --------------------- | ------------------------------------------------------ |
@@ -68,7 +68,7 @@ Order identifiers may appear multiple times (e.g., `ORD_1023-1`, `ORD_1023-2`) t
 
 ---
 
-🎯 Intended Use Cases
+ Intended Use Cases:
 
 * Exploratory Data Analysis (EDA)
 * Customer segmentation and profiling
@@ -79,7 +79,7 @@ Order identifiers may appear multiple times (e.g., `ORD_1023-1`, `ORD_1023-2`) t
 
 ---
 
-💡 Data Quality & Assumptions
+ Data Quality & Assumptions:
 
 * The dataset contains **no missing values**.
 * Values are internally consistent and cleaned.
@@ -89,7 +89,7 @@ Order identifiers may appear multiple times (e.g., `ORD_1023-1`, `ORD_1023-2`) t
 
 ---
 
-📁 Repository Structure (Recommended)
+ Repository Structure (Recommended):
 
 ```
 ├── README.md
@@ -103,7 +103,7 @@ Order identifiers may appear multiple times (e.g., `ORD_1023-1`, `ORD_1023-2`) t
 
 ---
 
-⚙️ Installation
+ Installation:
 
 ```bash
 git clone https://github.com/your-username/your-repository.git
@@ -113,7 +113,7 @@ pip install -r requirements.txt
 
 ---
 
-🌐 Data Source
+ Data Source:
 
 The dataset used in this project was obtained from **Kaggle**:
 
@@ -125,7 +125,7 @@ The dataset has been reused for educational and analytical purposes in accordanc
 
 ---
 
-📜 License
+ License:
 
 * **Dataset:** CC0 1.0 Universal (Public Domain)
 * **Source code:** MIT License (recommended)
@@ -134,7 +134,7 @@ You are free to use, modify, and distribute this dataset and code without restri
 
 ---
 
-📝 Citation
+ Citation:
 
 If you use this dataset in academic or professional work, please cite it as:
 
@@ -142,12 +142,12 @@ If you use this dataset in academic or professional work, please cite it as:
 
 ---
 
-🤝 Contribution
+ Contribution:
 
 Contributions are welcome. Please submit pull requests or open issues for suggestions, improvements, or bug reports.
 
 ---
 
-🛑 Disclaimer
+ Disclaimer:
 
 This dataset is provided for research and educational purposes only and does not represent real customer transactions.
